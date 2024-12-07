@@ -1,0 +1,335 @@
+userId,movieId,rating,name
+7,5618,5.0,Spirited Away
+15,5618,3.0,Spirited Away
+15,5971,2.0,My Neighbor Totoro
+16,3000,4.0,Princess Mononoke
+16,5618,4.5,Spirited Away
+16,5971,4.0,My Neighbor Totoro
+16,6350,3.5,Laputa: Castle in the Sky
+16,7099,3.5,Nausicaä of the Valley of the Wind
+17,5618,5.0,Spirited Away
+17,5971,4.0,My Neighbor Totoro
+17,6350,5.0,Laputa: Castle in the Sky
+17,7099,5.0,Nausicaä of the Valley of the Wind
+17,31658,4.5,Howl's Moving Castle
+20,5618,5.0,Spirited Away
+21,3000,0.5,Princess Mononoke
+22,31658,2.5,Howl's Moving Castle
+23,3000,3.5,Princess Mononoke
+23,5618,4.0,Spirited Away
+23,5971,4.0,My Neighbor Totoro
+23,7099,4.0,Nausicaä of the Valley of the Wind
+24,6350,4.5,Laputa: Castle in the Sky
+34,3000,4.0,Princess Mononoke
+39,3000,5.0,Princess Mononoke
+41,5618,3.5,Spirited Away
+50,3000,3.5,Princess Mononoke
+50,5618,4.0,Spirited Away
+50,104283,3.5,The Wind Rises
+62,3000,4.0,Princess Mononoke
+62,5618,5.0,Spirited Away
+62,31658,3.5,Howl's Moving Castle
+63,3000,3.5,Princess Mononoke
+63,5618,4.0,Spirited Away
+63,6350,4.5,Laputa: Castle in the Sky
+63,31658,4.0,Howl's Moving Castle
+64,5690,5.0,Grave of the Fireflies
+66,5618,4.5,Spirited Away
+68,3000,3.5,Princess Mononoke
+68,5618,2.5,Spirited Away
+83,7099,3.0,Nausicaä of the Valley of the Wind
+87,5618,5.0,Spirited Away
+87,5971,5.0,My Neighbor Totoro
+91,3000,4.0,Princess Mononoke
+91,5618,4.0,Spirited Away
+95,5618,4.5,Spirited Away
+98,5618,4.0,Spirited Away
+103,5618,4.0,Spirited Away
+103,31658,4.5,Howl's Moving Castle
+104,5618,4.0,Spirited Away
+105,5618,4.0,Spirited Away
+105,5690,5.0,Grave of the Fireflies
+105,5971,4.0,My Neighbor Totoro
+105,6350,4.0,Laputa: Castle in the Sky
+105,7099,4.0,Nausicaä of the Valley of the Wind
+105,26662,4.0,Kiki's Delivery Service
+105,26903,4.0,Whisper of the Heart
+105,31658,4.0,Howl's Moving Castle
+105,98604,4.5,From Up on Poppy Hill
+122,31658,5.0,Howl's Moving Castle
+129,3000,4.5,Princess Mononoke
+129,5618,4.5,Spirited Away
+129,7099,4.5,Nausicaä of the Valley of the Wind
+129,31658,4.0,Howl's Moving Castle
+132,5618,3.5,Spirited Away
+132,5971,3.5,My Neighbor Totoro
+132,6350,2.0,Laputa: Castle in the Sky
+132,26776,2.0,Porco Rosso
+132,31658,4.0,Howl's Moving Castle
+140,5971,1.0,My Neighbor Totoro
+141,5618,4.5,Spirited Away
+144,5618,4.0,Spirited Away
+148,5618,3.0,Spirited Away
+148,31658,4.0,Howl's Moving Castle
+166,3000,5.0,Princess Mononoke
+166,5618,4.5,Spirited Away
+166,5690,5.0,Grave of the Fireflies
+166,26662,5.0,Kiki's Delivery Service
+177,5971,4.0,My Neighbor Totoro
+177,65261,4.0,Ponyo
+177,83132,2.5,The Secret World of Arrietty
+182,3000,5.0,Princess Mononoke
+182,5618,4.5,Spirited Away
+182,5690,4.5,Grave of the Fireflies
+187,3000,4.0,Princess Mononoke
+187,5618,5.0,Spirited Away
+187,5971,3.5,My Neighbor Totoro
+187,6350,5.0,Laputa: Castle in the Sky
+187,7099,5.0,Nausicaä of the Valley of the Wind
+187,26662,4.5,Kiki's Delivery Service
+187,26776,4.5,Porco Rosso
+187,31658,4.0,Howl's Moving Castle
+190,5618,4.0,Spirited Away
+193,5618,5.0,Spirited Away
+202,3000,4.0,Princess Mononoke
+212,3000,4.0,Princess Mononoke
+212,5618,4.0,Spirited Away
+212,5690,4.0,Grave of the Fireflies
+212,5971,4.0,My Neighbor Totoro
+212,6350,4.0,Laputa: Castle in the Sky
+212,26662,4.0,Kiki's Delivery Service
+212,31658,4.0,Howl's Moving Castle
+212,65261,3.5,Ponyo
+212,83132,4.0,The Secret World of Arrietty
+219,3000,5.0,Princess Mononoke
+221,31658,4.5,Howl's Moving Castle
+246,5618,5.0,Spirited Away
+246,5971,5.0,My Neighbor Totoro
+246,6350,4.5,Laputa: Castle in the Sky
+246,7099,4.5,Nausicaä of the Valley of the Wind
+246,26662,4.5,Kiki's Delivery Service
+246,26776,5.0,Porco Rosso
+246,31658,5.0,Howl's Moving Castle
+246,65261,5.0,Ponyo
+247,5618,3.5,Spirited Away
+251,5971,5.0,My Neighbor Totoro
+253,7099,5.0,Nausicaä of the Valley of the Wind
+256,5618,0.5,Spirited Away
+256,7099,0.5,Nausicaä of the Valley of the Wind
+260,3000,3.5,Princess Mononoke
+260,5618,4.5,Spirited Away
+260,5690,5.0,Grave of the Fireflies
+260,5971,4.5,My Neighbor Totoro
+274,3000,4.0,Princess Mononoke
+274,5618,4.0,Spirited Away
+274,5690,3.0,Grave of the Fireflies
+274,26776,3.5,Porco Rosso
+274,31658,4.0,Howl's Moving Castle
+287,5618,4.5,Spirited Away
+288,5618,4.0,Spirited Away
+296,5618,4.5,Spirited Away
+296,65261,5.0,Ponyo
+298,5618,4.0,Spirited Away
+298,5971,3.0,My Neighbor Totoro
+298,6350,3.0,Laputa: Castle in the Sky
+298,7099,3.5,Nausicaä of the Valley of the Wind
+298,26903,2.5,Whisper of the Heart
+298,65261,3.0,Ponyo
+298,104283,3.5,The Wind Rises
+305,5618,5.0,Spirited Away
+305,5971,3.5,My Neighbor Totoro
+305,26776,3.5,Porco Rosso
+305,31658,4.5,Howl's Moving Castle
+305,65261,5.0,Ponyo
+306,5618,3.5,Spirited Away
+307,5618,4.0,Spirited Away
+307,6350,4.0,Laputa: Castle in the Sky
+308,5618,4.0,Spirited Away
+318,3000,4.0,Princess Mononoke
+318,5618,4.5,Spirited Away
+318,5971,4.5,My Neighbor Totoro
+322,5618,3.0,Spirited Away
+334,3000,3.5,Princess Mononoke
+334,5618,3.5,Spirited Away
+334,5971,3.5,My Neighbor Totoro
+334,6350,3.5,Laputa: Castle in the Sky
+334,26776,4.0,Porco Rosso
+334,31658,3.5,Howl's Moving Castle
+339,5618,5.0,Spirited Away
+343,3000,3.0,Princess Mononoke
+343,5618,3.0,Spirited Away
+343,5690,5.0,Grave of the Fireflies
+343,5971,4.0,My Neighbor Totoro
+343,31658,3.5,Howl's Moving Castle
+344,3000,4.5,Princess Mononoke
+344,5618,4.5,Spirited Away
+344,7099,4.5,Nausicaä of the Valley of the Wind
+346,5618,4.0,Spirited Away
+356,5618,4.0,Spirited Away
+357,31658,5.0,Howl's Moving Castle
+370,5618,4.0,Spirited Away
+371,3000,5.0,Princess Mononoke
+371,26662,4.5,Kiki's Delivery Service
+380,5618,5.0,Spirited Away
+380,5690,4.0,Grave of the Fireflies
+380,5971,5.0,My Neighbor Totoro
+380,6350,5.0,Laputa: Castle in the Sky
+380,7099,5.0,Nausicaä of the Valley of the Wind
+380,26662,5.0,Kiki's Delivery Service
+380,26776,4.0,Porco Rosso
+380,32456,4.0,Pom Poko
+381,3000,4.0,Princess Mononoke
+381,5618,5.0,Spirited Away
+381,5971,4.0,My Neighbor Totoro
+381,7099,4.5,Nausicaä of the Valley of the Wind
+381,26662,4.0,Kiki's Delivery Service
+381,31658,5.0,Howl's Moving Castle
+387,3000,4.0,Princess Mononoke
+387,5618,4.5,Spirited Away
+387,5690,4.0,Grave of the Fireflies
+387,5971,3.5,My Neighbor Totoro
+387,6350,4.0,Laputa: Castle in the Sky
+387,7099,5.0,Nausicaä of the Valley of the Wind
+387,26662,3.0,Kiki's Delivery Service
+387,26776,3.5,Porco Rosso
+387,31658,3.5,Howl's Moving Castle
+390,5618,4.5,Spirited Away
+390,6350,5.0,Laputa: Castle in the Sky
+391,3000,4.0,Princess Mononoke
+398,3000,5.0,Princess Mononoke
+398,5618,5.0,Spirited Away
+398,5971,5.0,My Neighbor Totoro
+398,7099,4.5,Nausicaä of the Valley of the Wind
+398,31658,4.0,Howl's Moving Castle
+401,31658,3.5,Howl's Moving Castle
+414,3000,5.0,Princess Mononoke
+414,5618,5.0,Spirited Away
+414,5971,5.0,My Neighbor Totoro
+428,3000,2.5,Princess Mononoke
+428,5690,3.5,Grave of the Fireflies
+434,3000,5.0,Princess Mononoke
+434,5618,5.0,Spirited Away
+434,31658,3.0,Howl's Moving Castle
+438,3000,3.5,Princess Mononoke
+438,31658,3.5,Howl's Moving Castle
+445,5618,4.5,Spirited Away
+445,5971,2.0,My Neighbor Totoro
+454,5618,3.0,Spirited Away
+459,5618,5.0,Spirited Away
+474,3000,4.0,Princess Mononoke
+474,5618,4.5,Spirited Away
+474,5690,4.5,Grave of the Fireflies
+474,5971,4.0,My Neighbor Totoro
+474,6350,4.0,Laputa: Castle in the Sky
+474,7099,3.5,Nausicaä of the Valley of the Wind
+474,26662,4.0,Kiki's Delivery Service
+474,26776,3.5,Porco Rosso
+474,31658,4.0,Howl's Moving Castle
+475,5618,5.0,Spirited Away
+475,31658,5.0,Howl's Moving Castle
+477,3000,5.0,Princess Mononoke
+477,5618,4.0,Spirited Away
+477,5971,4.0,My Neighbor Totoro
+477,6350,4.5,Laputa: Castle in the Sky
+477,7099,4.5,Nausicaä of the Valley of the Wind
+477,26662,4.5,Kiki's Delivery Service
+477,26776,4.5,Porco Rosso
+477,31658,5.0,Howl's Moving Castle
+480,3000,3.0,Princess Mononoke
+483,3000,5.0,Princess Mononoke
+483,5618,5.0,Spirited Away
+483,5690,3.5,Grave of the Fireflies
+483,5971,5.0,My Neighbor Totoro
+483,6350,4.0,Laputa: Castle in the Sky
+483,26662,4.0,Kiki's Delivery Service
+483,26776,4.5,Porco Rosso
+483,26903,4.5,Whisper of the Heart
+483,31658,4.5,Howl's Moving Castle
+483,65261,5.0,Ponyo
+483,83132,4.0,The Secret World of Arrietty
+487,31658,3.5,Howl's Moving Castle
+489,3000,5.0,Princess Mononoke
+489,5618,4.0,Spirited Away
+489,5971,4.5,My Neighbor Totoro
+489,6350,3.0,Laputa: Castle in the Sky
+489,7099,3.0,Nausicaä of the Valley of the Wind
+489,31658,3.0,Howl's Moving Castle
+490,5690,4.0,Grave of the Fireflies
+509,3000,3.5,Princess Mononoke
+509,5618,4.0,Spirited Away
+509,5971,4.0,My Neighbor Totoro
+509,6350,3.5,Laputa: Castle in the Sky
+509,7099,3.5,Nausicaä of the Valley of the Wind
+509,26662,3.5,Kiki's Delivery Service
+509,26776,3.5,Porco Rosso
+509,26903,3.5,Whisper of the Heart
+509,31658,4.0,Howl's Moving Castle
+509,65261,3.5,Ponyo
+509,83132,3.5,The Secret World of Arrietty
+520,3000,4.0,Princess Mononoke
+520,5618,4.0,Spirited Away
+523,5618,5.0,Spirited Away
+523,5971,5.0,My Neighbor Totoro
+523,6350,4.0,Laputa: Castle in the Sky
+523,26776,4.5,Porco Rosso
+523,26903,4.5,Whisper of the Heart
+523,31658,5.0,Howl's Moving Castle
+523,65261,5.0,Ponyo
+523,104283,5.0,The Wind Rises
+525,3000,4.0,Princess Mononoke
+525,5618,4.5,Spirited Away
+525,5971,4.0,My Neighbor Totoro
+525,26662,4.0,Kiki's Delivery Service
+525,31658,4.0,Howl's Moving Castle
+525,65261,3.0,Ponyo
+538,5618,5.0,Spirited Away
+551,5618,3.0,Spirited Away
+557,5618,5.0,Spirited Away
+560,3000,4.0,Princess Mononoke
+560,5618,4.0,Spirited Away
+560,7099,3.5,Nausicaä of the Valley of the Wind
+562,5618,4.0,Spirited Away
+563,5618,4.0,Spirited Away
+567,3000,1.0,Princess Mononoke
+567,5618,2.0,Spirited Away
+567,5690,4.0,Grave of the Fireflies
+567,5971,2.0,My Neighbor Totoro
+567,26743,2.5,Only Yesterday
+567,65261,2.0,Ponyo
+567,114554,1.0,The Tale of Princess Kaguya
+582,5618,3.5,Spirited Away
+596,3000,5.0,Princess Mononoke
+596,5618,4.5,Spirited Away
+596,5971,5.0,My Neighbor Totoro
+596,6350,4.5,Laputa: Castle in the Sky
+596,31658,5.0,Howl's Moving Castle
+599,3000,3.0,Princess Mononoke
+599,5618,2.5,Spirited Away
+599,5690,2.5,Grave of the Fireflies
+599,7099,3.0,Nausicaä of the Valley of the Wind
+599,26662,2.0,Kiki's Delivery Service
+599,31658,2.5,Howl's Moving Castle
+600,3000,4.0,Princess Mononoke
+600,5618,5.0,Spirited Away
+600,5971,4.5,My Neighbor Totoro
+600,6350,4.5,Laputa: Castle in the Sky
+600,26662,4.5,Kiki's Delivery Service
+600,31658,5.0,Howl's Moving Castle
+600,32456,4.5,Pom Poko
+601,3000,4.0,Princess Mononoke
+601,5618,5.0,Spirited Away
+601,5971,4.5,My Neighbor Totoro
+601,31658,5.0,Howl's Moving Castle
+605,3000,3.0,Princess Mononoke
+605,5618,3.0,Spirited Away
+605,31658,3.0,Howl's Moving Castle
+606,3000,5.0,Princess Mononoke
+606,5618,4.5,Spirited Away
+606,5971,3.5,My Neighbor Totoro
+606,6350,4.0,Laputa: Castle in the Sky
+606,7099,5.0,Nausicaä of the Valley of the Wind
+606,26662,4.0,Kiki's Delivery Service
+606,26776,4.0,Porco Rosso
+606,31658,4.0,Howl's Moving Castle
+608,5618,3.5,Spirited Away
+610,5618,4.0,Spirited Away

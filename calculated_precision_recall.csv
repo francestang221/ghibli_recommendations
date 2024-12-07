@@ -1,0 +1,4 @@
+Movie,Precision (Content-Based),Recall (Content-Based),Overlap (Relevant Movies)
+My Neighbor Totoro,0.4,0.4,"Spirited Away, Kiki's Delivery Service"
+Howl's Moving Castle,0.4,0.4,"Princess Mononoke, Castle in the Sky"
+Kiki's Delivery Service,0.2,0.2,My Neighbor Totoro
